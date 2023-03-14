@@ -1,4 +1,4 @@
-# Christian Saturnino Andrade
+# Christian Saturnino
 
 ---
 
