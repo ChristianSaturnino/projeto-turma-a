@@ -1,5 +1,7 @@
-# Christian Saturtnino
+# Christian Saturnino
 
 ---
-
+## Experiencias
+- Programador Senior - Google
+- CEO Microsoft Brasil
 
