@@ -16,3 +16,5 @@ Email: christian@gmail.com
 ## Experiencias
 - Programador Senior - Google
 - CEO Microsoft Brasil
+- CO-CEO Google
+
